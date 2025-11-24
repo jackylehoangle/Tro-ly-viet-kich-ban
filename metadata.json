@@ -1,0 +1,7 @@
+{
+  "name": "Trợ lý viết kịch bản dài",
+  "description": "Ứng dụng sử dụng Gemini API để tạo các kịch bản phim hoặc video hấp dẫn, được định dạng tốt từ lời nhắc của người dùng.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
